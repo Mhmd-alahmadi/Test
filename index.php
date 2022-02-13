@@ -24,7 +24,7 @@
 				<div class="a2"><img src="IMAGES/c5.PNG" class="img1"><p>Only here you will meet the<br/> combination of exquisite cuisine, <br/>pleasant interior and great service!</p></div>
 				</div>
 				
-		          lkadfsjkljsjfkl;ajsfljdsak;lfjkasjfksjfkjsfkjskjfkjasljklsajk
+		          lkadfsjkljs
 				  
 				  <div class="offer" style="font-size:20px">
 				  
