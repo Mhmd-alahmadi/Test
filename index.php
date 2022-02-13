@@ -20,11 +20,11 @@
 					</div>
 					
 					<div class="a" style="font-size:29px">
-	<div class="a1"><img src="IMAGES/C4.PNG" class="img1"><p>The feeling of satisfaction and<br/> the desire to come back again<br/> won’t leave you!</p></div>
+	<div class="a1"><img src="IMAGES/C4.PNG" class="img1"><p>The feeling of satisfaction and<br/> the desire to come back again<br/> wonâ€™t leave you!</p></div>
 				<div class="a2"><img src="IMAGES/c5.PNG" class="img1"><p>Only here you will meet the<br/> combination of exquisite cuisine, <br/>pleasant interior and great service!</p></div>
 				</div>
 				
-		          
+		          lkadfsjkljsjfkl;ajsfljdsak;lfjkasjfksjfkjsfkjskjfkjasljklsajk
 				  
 				  <div class="offer" style="font-size:20px">
 				  
